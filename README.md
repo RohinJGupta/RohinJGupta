@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi! I'm Rohin 👋
+
+If you want to reach out to me, send me a direct message on [LinkedIn](https://www.linkedin.com/rohin-j-gupta) or drop me an email.  
+
+Feel free to ask any questions about any of my projects or classwork!  
+
+🚀 Also, check out one of my favorite projects: [**Finesse**](https://finesse-three.vercel.app/)  
+
 
 <!--
 **RohinJGupta/RohinJGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
