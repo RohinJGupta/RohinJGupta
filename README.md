@@ -1,6 +1,6 @@
 ## Hi! I'm Rohin 👋
 
-If you want to reach out to me, send me a direct message on [LinkedIn](https://www.linkedin.com/rohin-j-gupta) or drop me an email.  
+If you want to reach out to me, send me a direct message on [LinkedIn](https://www.linkedin.com/in/rohin-j-gupta/) or drop me an email.  
 
 Feel free to ask any questions about any of my projects or classwork!  
 
