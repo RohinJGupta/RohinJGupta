@@ -4,7 +4,7 @@ If you want to reach out to me, send me a direct message on [LinkedIn](https://w
 
 Feel free to ask any questions about any of my projects or classwork!  
 
-🚀 Also, make sure to check out one of my favorite projects! [**Finesse**](https://finesse-three.vercel.app/)  
+Also, make sure to check out one of my favorite projects! [**Finesse**](https://finesse-three.vercel.app/) 🚀 
 
 
 <!--
